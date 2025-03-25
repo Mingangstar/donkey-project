@@ -33,7 +33,7 @@ OpenAI API, Postman, DBeaver, IntelliJ, VS Code
 - 포트폴리오용 실전 프로젝트로 성장
 
 ---
-## 🛠️ 화면설계서
+## 🛠️ 구조 기반 화면 설계 마인드맵
 ![KakaoTalk_20250325_121912483](https://github.com/user-attachments/assets/cf4acecb-2d3d-41af-8458-8e5364f03fe3)
 
 
