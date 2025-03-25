@@ -33,5 +33,8 @@ OpenAI API, Postman, DBeaver, IntelliJ, VS Code
 - 포트폴리오용 실전 프로젝트로 성장
 
 ---
+## 🛠️ 화면설계서
+![KakaoTalk_20250325_121912483](https://github.com/user-attachments/assets/cf4acecb-2d3d-41af-8458-8e5364f03fe3)
+
 
 > 📌 프로젝트는 계속 개발 중이며, README는 추후 변경될 수 있습니다.
